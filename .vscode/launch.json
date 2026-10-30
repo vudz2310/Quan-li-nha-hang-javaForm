@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Chạy Đăng Nhập & Đăng Ký (Main_LoginAndRegister)",
+            "request": "launch",
+            "mainClass": "RTDRestaurant.View.Main_Frame.Main_LoginAndRegister"
+        },
+        {
+            "type": "java",
+            "name": "Chạy Giao Diện Admin (Main_Admin_Frame)",
+            "request": "launch",
+            "mainClass": "RTDRestaurant.View.Main_Frame.Main_Admin_Frame"
+        },
+        {
+            "type": "java",
+            "name": "Chạy Giao Diện Khách Hàng (Main_Customer_Frame)",
+            "request": "launch",
+            "mainClass": "RTDRestaurant.View.Main_Frame.Main_Customer_Frame"
+        }
+    ]
+}
